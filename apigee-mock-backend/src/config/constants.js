@@ -1,0 +1,9 @@
+const API_VERSION = "1.0";
+const DEFAULT_PORT = 3000;
+const DEFAULT_TIMEOUT_MS = 11000;
+
+module.exports = {
+  API_VERSION,
+  DEFAULT_PORT,
+  DEFAULT_TIMEOUT_MS
+};
